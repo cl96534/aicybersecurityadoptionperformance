@@ -44,7 +44,7 @@ results/                     Output of `python src/analysis.py`
 Requires Python 3.9+.
 
 ```bash
-git clone https://github.com/<your-username>/ai-cybersecurity-adoption-performance.git
+git clone https://github.com/cl96534/ai-cybersecurity-adoption-performance.git
 cd ai-cybersecurity-adoption-performance
 pip install -r requirements.txt
 python src/analysis.py          # prints results and writes results/

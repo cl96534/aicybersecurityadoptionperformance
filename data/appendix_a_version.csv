@@ -1,0 +1,36 @@
+organization,industry,ai_adoption_1_to_5,employees_as_reported,cybersecurity_performance_0_to_100,data_sources
+Microsoft,Technology,4,"228,000",91.47,Microsoft Corporation (2024); UpGuard (2026)
+Alphabet/Google,Technology,3,"190,820",82.21,Alphabet Inc. (2025); UpGuard (2026)
+Amazon,Technology,4,"1,576,000",87.79,"Amazon.com, Inc. (2025); UpGuard (2026)"
+Apple,Technology,2,"166,000",82.32,Apple Inc. (2024); UpGuard (2026)
+IBM,Technology,1,"264,300",81.16,International Business Machines Corporation (2025); UpGuard (2026)
+Cisco,Technology,2,"86,200",85.37,"Cisco Systems, Inc. (2024); UpGuard (2026)"
+Oracle,Technology,5,"141,000",86.95,Oracle Corporation (2024); UpGuard (2026)
+NVIDIA,Technology,1,"42,000",85.37,NVIDIA Corporation (2024); UpGuard (2026)
+Salesforce,Technology,3,"83,334",90.00,"Salesforce, Inc. (2024); UpGuard (2026)"
+Adobe,Technology,4,"31,360",81.05,Adobe Inc. (2024); UpGuard (2026)
+Intel,Technology,2,"85,000",85.89,Intel Corporation (2024); UpGuard (2026)
+Dell Technologies,Technology,4,"97,000",82.32,Dell Technologies Inc. (2024); UpGuard (2026)
+JPMorgan Chase,Financial Services,3,"318,512",85.79,JPMorgan Chase & Co. (2025); UpGuard (2026)
+Bank of America,Financial Services,2,"213,000",88.53,Bank of America Corporation (2025); UpGuard (2026)
+Wells Fargo,Financial Services,3,"217,000",85.68,Wells Fargo & Company (2025); UpGuard (2026)
+Goldman Sachs,Financial Services,2,"47,400",89.89,"The Goldman Sachs Group, Inc. (2025); UpGuard (2026)"
+Morgan Stanley,Financial Services,2,"83,000",86.74,Morgan Stanley (2024); UpGuard (2026)
+Capital One,Financial Services,3,"76,300",91.58,Capital One Financial Corporation (2024); UpGuard (2026)
+UnitedHealth Group,Healthcare,2,"390,000+",87.16,UnitedHealth Group Incorporated (2025); UpGuard (2026)
+CVS Health,Healthcare,2,"300,000+",82.63,CVS Health Corporation (2024); UpGuard (2026)
+Johnson & Johnson,Healthcare,2,"138,000",79.16,Johnson & Johnson (2025); UpGuard (2026)
+Pfizer,Healthcare,2,"75,000",84.32,Pfizer Inc. (2024); UpGuard (2026)
+Merck,Healthcare,1,"75,000",86.84,"Merck & Co., Inc. (2024); UpGuard (2026)"
+Verizon,Telecommunications,4,"89,900",79.37,Verizon Communications Inc. (2024); UpGuard (2026)
+AT&T,Telecommunications,4,"133,030",83.89,AT&T Inc. (2024); UpGuard (2026)
+Comcast,Telecommunications,2,"179,000",82.84,Comcast Corporation (2024); UpGuard (2026)
+Boeing,Aerospace & Defense,2,"182,000",82.84,The Boeing Company (2024); UpGuard (2026)
+Lockheed Martin,Aerospace & Defense,4,"123,000",81.05,Lockheed Martin Corporation (2024); UpGuard (2026)
+General Motors,Automotive,1,"155,000",86.11,General Motors Company (2025); UpGuard (2026)
+Ford Motor Company,Automotive,3,"169,000",85.05,Ford Motor Company (2025); UpGuard (2026)
+Walmart,Retail,2,"2,100,000",81.47,Walmart Inc. (2024); UpGuard (2026)
+Target,Retail,2,"415,000",86.84,Target Corporation (2024); UpGuard (2026)
+Home Depot,Retail,2,"470,100",84.32,"The Home Depot, Inc. (2024); UpGuard (2026)"
+FedEx,Transportation & Logistics,2,"452,000",96.32,FedEx Corporation (2024); UpGuard (2026)
+UPS,Transportation & Logistics,2,"460,000",88.00,"United Parcel Service, Inc. (2024); UpGuard (2026)"

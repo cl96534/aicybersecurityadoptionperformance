@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the dissertation and this repository."
+title: "AI-Related Cybersecurity Adoption and Cybersecurity Performance: Reproducibility Repository"
+type: dataset
+authors:
+  - family-names: Lyons
+    given-names: Chrissa
+date-released: 2026-11-13
+license: MIT
+repository-code: "https://github.com/<your-username>/ai-cybersecurity-adoption-performance"
+keywords:
+  - artificial intelligence
+  - cybersecurity
+  - security ratings
+  - UpGuard
+  - TOE framework
+  - NIST RMF
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: Lyons
+      given-names: Chrissa
+  title: "Organizational AI-Related Cybersecurity Adoption and Cybersecurity Performance: A Quantitative Correlational Analysis"
+  thesis-type: "Doctor of Science dissertation"
+  year: 2026

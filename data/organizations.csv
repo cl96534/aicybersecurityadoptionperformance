@@ -1,0 +1,36 @@
+org_id,organization,industry,ai_adoption_1_to_5,employees,upguard_rating_0_to_950,cybersecurity_performance_0_to_100
+O01,Microsoft,Technology,4,228000,869,91.47
+O02,Alphabet/Google,Technology,3,190820,781,82.21
+O03,Amazon,Technology,4,1576000,834,87.79
+O04,Apple,Technology,1,166000,782,82.32
+O05,IBM,Technology,1,264300,771,81.16
+O06,Cisco,Technology,1,86200,811,85.37
+O07,Oracle,Technology,5,141000,826,86.95
+O08,NVIDIA,Technology,1,42000,811,85.37
+O09,Salesforce,Technology,3,82000,855,90.00
+O10,Adobe,Technology,4,31000,770,81.05
+O11,Intel,Technology,1,85000,816,85.89
+O12,Dell Technologies,Technology,3,97000,782,82.32
+O13,JPMorgan Chase,Financial Services,3,317000,815,85.79
+O14,Bank of America,Financial Services,2,213000,841,88.53
+O15,Wells Fargo,Financial Services,3,217000,814,85.68
+O16,Goldman Sachs,Financial Services,1,47000,854,89.89
+O17,Morgan Stanley,Financial Services,1,83000,824,86.74
+O18,Capital One,Financial Services,3,75000,870,91.58
+O19,UnitedHealth Group,Healthcare,1,400000,828,87.16
+O20,CVS Health,Healthcare,1,219000,785,82.63
+O21,Johnson & Johnson,Healthcare,1,138000,752,79.16
+O22,Pfizer,Healthcare,1,75000,801,84.32
+O23,Merck,Healthcare,1,75000,825,86.84
+O24,Verizon,Telecommunications,4,90000,754,79.37
+O25,AT&T,Telecommunications,5,141000,797,83.89
+O26,Comcast,Telecommunications,1,179000,787,82.84
+O27,Boeing,Aerospace & Defense,1,173000,787,82.84
+O28,Lockheed Martin,Aerospace & Defense,1,123000,770,81.05
+O29,General Motors,Automotive,1,162000,818,86.11
+O30,Ford Motor Company,Automotive,3,169000,808,85.05
+O31,Walmart,Retail,1,2100000,774,81.47
+O32,Target,Retail,2,415000,825,86.84
+O33,Home Depot,Retail,1,470100,801,84.32
+O34,FedEx,Transportation & Logistics,1,530000,915,96.32
+O35,UPS,Transportation & Logistics,1,490000,836,88.00
